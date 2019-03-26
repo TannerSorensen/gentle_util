@@ -5,6 +5,8 @@ tools for interacting with json output of the Gentle Forced-Aligner
 
 - Python3
 - Python module `pydub`
+- `ffmpeg`
+- `sox`
 
 # Getting Started
 
